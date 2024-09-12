@@ -1,0 +1,1 @@
+1)1) 91, pois será a soma dos números de 0 a 13, devido a K ser 0 inicialmente e no primeiro loop já ser atribuído o valor de 1 , até que no décimo e segundo loop K tenha o valor 13.
